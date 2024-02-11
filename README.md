@@ -1,4 +1,4 @@
-# UART-I2C-and-SPI
+# UART, I2C and SPI
 ### UART: UART facilitates serial data transmission without the need for a clock signal, making it suitable for asynchronous communication between devices like computers and modems.
 
 ### I2C: I2C is a synchronous serial communication protocol enabling multiple devices to communicate over just two wires, featuring master-slave architecture and acknowledge bit confirmation.
